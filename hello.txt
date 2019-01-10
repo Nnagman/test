@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-Hello22
-=======
-Hello
-
-Don't Touch
->>>>>>> c90cbf73f6887c6e260a27704ab7421664ba2a55
